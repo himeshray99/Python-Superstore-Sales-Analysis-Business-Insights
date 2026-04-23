@@ -27,12 +27,8 @@ The goal is not just visualization, but to answer real business questions and pr
 superstore-sales-analysis/
 │── superstore_analysis.ipynb
 │── README.md
-│── screenshots/
-│   ├── sales_by_category.png
-│   ├── profit_by_subcategory.png
-│   ├── loss_products.png
-│   ├── monthly_trend.png
-│   ├── payment_mode.png
+│── Insights.md
+
 ```
 
 ---
@@ -161,17 +157,6 @@ These features enabled deeper insights into **efficiency and seasonality**.
 * Plan inventory and campaigns around **seasonal peaks**
 
 ---
-
-## 🖼 Sample Visualizations
-
-(Add your screenshots here)
-
-```
-![Sales](screenshots/sales_by_category.png)
-![Profit](screenshots/profit_by_subcategory.png)
-![Trend](screenshots/monthly_trend.png)
-```
-
 ---
 
 ## ▶️ How to Run
@@ -179,7 +164,7 @@ These features enabled deeper insights into **efficiency and seasonality**.
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/superstore-sales-analysis.git
+git clone https://github.com/username/superstore-sales-analysis.git
 ```
 
 2. Open in Jupyter/Colab:
