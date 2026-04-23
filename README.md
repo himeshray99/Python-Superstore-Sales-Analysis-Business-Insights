@@ -114,6 +114,9 @@ These features enabled deeper insights into **efficiency and seasonality**.
 
 ### 📈 Profit Margin Analysis
 
+<img width="589" height="455" alt="image" src="https://github.com/user-attachments/assets/5a3b6450-94b4-40f8-82ed-f17ece30051a" />
+
+
 * Technology ≈ **19% margin** → highly efficient
 * Office Supplies ≈ **11% margin** → volume-driven
 * Furniture ≈ **~2% margin** → critical concern
@@ -128,6 +131,9 @@ These features enabled deeper insights into **efficiency and seasonality**.
 ---
 
 ### 💳 Payment Mode Analysis
+
+<img width="569" height="455" alt="image" src="https://github.com/user-attachments/assets/603f62fe-15f1-4635-a4d5-e9f55fbc27be" />
+
 
 * **COD generates highest profit**
 * Cards generate lowest profit (possibly due to fees)
