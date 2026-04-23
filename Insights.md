@@ -10,6 +10,9 @@ The analysis of the Superstore dataset reveals that business performance is driv
 
 ## 1. 📅 Strong Seasonality in Sales
 
+<img width="578" height="505" alt="image" src="https://github.com/user-attachments/assets/29eecca6-a5e5-4581-b5f0-46ffefe1b049" />
+
+
 * Sales show a clear upward trend throughout the year, with a **significant spike in Q4 (October–December)**
 * **December is the peak sales month**, indicating strong holiday-driven demand
 * A noticeable dip in mid-year suggests weaker demand during non-peak periods
@@ -21,6 +24,9 @@ The business is highly dependent on seasonal demand cycles, particularly year-en
 
 ## 2. 🌆 Geographic Concentration of Revenue
 
+<img width="877" height="610" alt="image" src="https://github.com/user-attachments/assets/3454be7d-dda9-428a-b6c6-00f8c14e6f08" />
+
+
 * Major cities like **New York City and Los Angeles** contribute the highest sales
 * Revenue is heavily concentrated in **urban, high-population areas**
 * Smaller cities contribute significantly less
@@ -31,6 +37,9 @@ Business performance is dependent on a few high-performing metropolitan markets,
 ---
 
 ## 3. 🏆 Product-Level Dependency
+
+<img width="1372" height="547" alt="image" src="https://github.com/user-attachments/assets/622f4431-d7fd-45c1-8572-b1e71dc25d01" />
+
 
 * A few products contribute disproportionately to total sales
 * Example: **High-value products (e.g., 3D printers)** drive significant revenue
@@ -55,6 +64,8 @@ This indicates potential issues with:
 ---
 
 ## 5. 📊 Category Performance Imbalance
+<img width="578" height="455" alt="image" src="https://github.com/user-attachments/assets/efd97fc1-2bbf-4f2d-8bb0-b151b90dd39c" />
+
 
 * **Technology**:
 
