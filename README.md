@@ -164,13 +164,13 @@ These features enabled deeper insights into **efficiency and seasonality**.
 1. Clone the repository:
 
 ```
-git clone https://github.com/username/superstore-sales-analysis.git
+git clone https://github.com/username/Superstore-Sales-Analysis.git
 ```
 
 2. Open in Jupyter/Colab:
 
 ```
-superstore_analysis.ipynb
+Superstore_Sales_Analysis.ipynb
 ```
 
 3. Run all cells
